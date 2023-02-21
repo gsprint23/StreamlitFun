@@ -38,3 +38,5 @@ if options == "show plotting":
 else:
     slider_val = st.slider("x")
     st.write("2 * slider value:", 2 * slider_val)
+
+# can get text input, such as for input to ML model
